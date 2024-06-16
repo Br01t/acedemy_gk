@@ -10,9 +10,15 @@ function ServicesSection() {
                         <img src={Pablo} alt="about image" className="img-fluid w-75 shadow" />
                     </div>
                     <div className="col-md-6 d-flex flex-column justify-content-center">
-                        <h2 className="mb-5">Services we can offer</h2>
-                        <p className="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit architecto obcaecati quidem nulla minima expedita, repellat possimus ipsam delectus eaque nisi harum cumque aperiam atque esse qui sint saepe soluta!</p>
-                        <p className="text-start mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit architecto obcaecati quidem nulla minima expedita, repellat possimus ipsam delectus eaque nisi harum cumque aperiam atque esse qui sint saepe soluta!</p>
+                        <h2 className="mb-5 text-dark">Services we can offer</h2>
+                        <ol className="text-start text-dark">
+                            <li><h5><b>Senior Group</b></h5></li>
+                                <p>Practice <b>head to head</b> with Malta`s most elite GK`s</p>
+                            <li><h5><b>Junior Group</b></h5></li>
+                                <p>Pull up your sleeves and <b>dive into our Weekly Training Sessions!</b></p>
+                            <li><h5><b>1 on 1 training</b></h5></li>
+                                <p>Get coached by a <b>BOV Premier League professional GK</b></p>
+                        </ol>
                     </div>
                 </div>
             </div>

@@ -2,20 +2,20 @@ import React from "react";
 
 function Footer() {
     return (
-        <footer className="bg-primary text-light py-3">
+        <footer className="bg-primary text-dark py-3">
             <div className="container">
                 <ul className="list-unstyled d-flex flex-column flex-sm-row justify-content-center">
                     <li>
-                        <a href="#header" className="text-light text-decoration-none">Home</a>
+                        <a href="#header" className="text-dark text-decoration-none">Home</a>
                     </li>
                     <li className="mx-0 mx-sm-3 my-2 my-sm-0">
-                        <a href="#about" className="text-light text-decoration-none">About</a>
+                        <a href="#about" className="text-dark text-decoration-none">About</a>
                     </li>
                     <li className="me-0 me-sm-3 mb-2 md-sm-0">
-                        <a href="#projects" className="text-light text-decoration-none">Projects</a>
+                        <a href="#projects" className="text-dark text-decoration-none">Projects</a>
                     </li>
                     <li>
-                        <a href="#contact" className="text-light text-decoration-none">Contact</a>
+                        <a href="#contact" className="text-dark text-decoration-none">Contact</a>
                     </li>
                 </ul>
                 <hr className="w-50mx-auto" />

@@ -3,7 +3,7 @@ import { Button, Form } from "react-bootstrap";
 
 function ContactFrom() {
     return (
-        <Form className="bg-light text-dark p-5 border shadow">
+        <Form className="bg-light text-dark p-5 border shadow rounded" id="form">
             <div className="row">
                 <Form.Group className="mb-3 col-lg-6" controlId="firstName">
                     <Form.Label className="w-100 text-start text-capitalize">First name</Form.Label>
