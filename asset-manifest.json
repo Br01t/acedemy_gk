@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gk_academy/static/css/main.a8cedc05.css",
+    "main.js": "/gk_academy/static/js/main.85c32faf.js",
+    "static/js/453.252b74d1.chunk.js": "/gk_academy/static/js/453.252b74d1.chunk.js",
+    "static/media/about-img.png": "/gk_academy/static/media/about-img.39f8193c98013e03b12d.png",
+    "static/media/bg-header.webp": "/gk_academy/static/media/bg-header.f5b8935a44473e134e09.webp",
+    "static/media/pablo.JPG": "/gk_academy/static/media/pablo.5fbe43b6328c996e55fe.JPG",
+    "static/media/physio.webp": "/gk_academy/static/media/physio.d14b7ffb78c175a013ad.webp",
+    "static/media/nutritionist.webp": "/gk_academy/static/media/nutritionist.83d97155f2f0bdd054ee.webp",
+    "static/media/gk.webp": "/gk_academy/static/media/gk.b1d5fe6e7a760fc3b91a.webp",
+    "static/media/header-img.webp": "/gk_academy/static/media/header-img.553dddada9af238b6a6e.webp",
+    "static/media/centofanti.webp": "/gk_academy/static/media/centofanti.2978f8d008b37b6508d9.webp",
+    "index.html": "/gk_academy/index.html",
+    "main.a8cedc05.css.map": "/gk_academy/static/css/main.a8cedc05.css.map",
+    "main.85c32faf.js.map": "/gk_academy/static/js/main.85c32faf.js.map",
+    "453.252b74d1.chunk.js.map": "/gk_academy/static/js/453.252b74d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cedc05.css",
+    "static/js/main.85c32faf.js"
+  ]
+}
